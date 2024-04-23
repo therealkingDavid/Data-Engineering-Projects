@@ -25,6 +25,6 @@ I'm Issah David, a final-year Pharmacy student at the University of Lagos with a
 
 ## Contact Information
 - **Email:** davidissah01@gmail.com
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/king-david-nnamdi)
+- **LinkedIn:** [LinkedIn Profile](http://www.linkedin.com/in/king-david-nnamdi)
 
 Feel free to explore the projects and reach out to me for any inquiries or collaboration opportunities!
